@@ -72,7 +72,7 @@
                   <ul class="icon-list redeSocial">
                     <li>Bruno Rodrigues Ginciene <a href="https://www.linkedin.com/in/bruno-rodrigues-ginciene-7b7a8b4b" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
                     <li>Douglas Teixeira Araújo <a href=" https://br.linkedin.com/in/douglas-araujo-mkt" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
-                    <li>Nataliia Santatto <a href="#" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
+                    <li>Natalia Santatto <a href="https://www.linkedin.com/in/natalia-santatto/" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
                     <li>Rafael SOBRENOME <a href="#"><i class="fa fa-linkedin-square" target="_blank"></i></a></li>
                     <li>Wellington Silva <a href="https://www.linkedin.com/in/wellington-silva-rocket-labs-cro/"><i class="fa fa-linkedin-square" target="_blank"></i></a></li>
                   </ul>
